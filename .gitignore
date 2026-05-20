@@ -1,3 +1,22 @@
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 에디터 설정
+.vscode/
+.idea/
+
+# 파이썬
+__pycache__/
+*.pyc
+venv/
+
+# 노드
+node_modules/
+
+# 환경 변수
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
